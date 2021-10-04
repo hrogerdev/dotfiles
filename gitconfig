@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = hugo.roger@pm.me
+	name = hugo roger
